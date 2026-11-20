@@ -1,0 +1,43 @@
+# Clínica Olhar Saúde
+
+> Referência em oftalmologia no Maranhão. Consultas, exames e cirurgias oculares com tecnologia de ponta e atendimento humanizado.
+
+## Informações
+- Site: https://olharsaude.pages.dev
+- Telefone: (98) 4009-6956
+- WhatsApp: (98) 2018-0161
+- E-mail: sac@clinicaolharsaude.com.br
+- CNPJ: 25.136.323/0002-19
+- Diretor Técnico: Dr. Álvaro Bruno Botentuit – CRM 6778 RQE 3277
+
+## Unidades
+- Ponta D'Areia (São Luís)
+- Anjo da Guarda (São Luís)
+- Maiobão (Paço do Lumiar)
+- Pinheiro
+- Rosário
+
+## Exames Oferecidos
+Aberrometria, Acuidade Visual, Campimetria Visual, Exame de Motilidade Ocular, Gonioscopia, Mapeamento de Retina, Microscopia Especular, Microscopia Especular da Córnea, Orbscan, Paquimetria, Refração, Retinografia, Teste de Adaptação de Lentes de Contato, Teste de Sobrecarga Hídrica, Teste de Visão de Cores (Ishihara), Tomografia de Coerência Óptica (OCT), Tonometria, Topografia Corneana, Ultrassonografia Ocular
+
+## Equipe Médica
+- Dr. Álvaro Bruno - Catarata e Retina (CRM-MA 6778, RQE 3277)
+- Dr. Henderson Fontes - Córnea e Catarata (CRM-MA 6929)
+- Dr. Pedro Buna - Oftalmopediatria e Estrabismo (CRM-MA 10191, RQE 5650)
+- Dra. Ráysa Hellen - Refrativa e Lentes de Contato (CRM-MA 9384, RQE 5048)
+- Dra. Marina Dualibe (CRM-MA 8252)
+- Dra. Renata Paz - Glaucoma e Catarata (CRM 10962, RQE 7214)
+- Dra. Claudiany Ferreira - Endocrinologista (CRM-MA 7530, RQE 4276)
+
+## Horários
+- Segunda a Sexta: 08h às 17h
+- Sábado: 08h às 12h
+
+## Páginas
+- [Início](https://olharsaude.pages.dev/)
+- [Sobre](https://olharsaude.pages.dev/sobre/)
+- [Exames](https://olharsaude.pages.dev/exames/)
+- [Equipe](https://olharsaude.pages.dev/equipe/)
+- [Depoimentos](https://olharsaude.pages.dev/depoimentos/)
+- [Blog](https://olharsaude.pages.dev/blog/)
+- [Política de Privacidade](https://olharsaude.pages.dev/privacidade/)

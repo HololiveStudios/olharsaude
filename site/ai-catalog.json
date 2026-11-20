@@ -1,0 +1,44 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Clínica Olhar Saúde",
+    "documentationUrl": "https://olharsaude.pages.dev/llms.txt",
+    "logoUrl": "https://olharsaude.pages.dev/apple-touch-icon.png"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:olharsaude.pages.dev:clinic:services",
+      "displayName": "Clínica Olhar Saúde — Serviços Oftalmológicos",
+      "type": "application/json",
+      "url": "https://olharsaude.pages.dev/llms.txt",
+      "description": "Consultas oftalmológicas, 19 tipos de exames diagnósticos de precisão e cirurgias oculares (catarata, refrativa, glaucoma) no Maranhão.",
+      "tags": [
+        "oftalmologia",
+        "saude-ocular",
+        "exames-oftalmologicos",
+        "cirurgia-de-catarata",
+        "consultas-medicas",
+        "maranhao",
+        "sao-luis"
+      ],
+      "capabilities": [
+        "AgendamentoConsultas",
+        "ExamesDiagnosticos",
+        "CirurgiaCatarata",
+        "TratamentoGlaucoma",
+        "Oftalmopediatria"
+      ],
+      "representativeQueries": [
+        "agendar consulta oftalmologista em São Luís Maranhão",
+        "onde fazer exames de vista e cirurgia de catarata no Maranhão"
+      ],
+      "version": "1.0.0",
+      "updatedAt": "2026-09-27T19:00:00Z",
+      "metadata": {
+        "city": "São Luís",
+        "state": "Maranhão",
+        "phone": "+559820180161"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/redirecionamento.php  https://api.whatsapp.com/send/?phone=559820180161&text=Ol%C3%A1%2C+vim+do+site+da+clinica+olhar+sa%C3%BAde%2C+gostaria+de+obter+uma+informacao.&type=phone_number&app_absent=0  302
+/redirecionamento      https://api.whatsapp.com/send/?phone=559820180161&text=Ol%C3%A1%2C+vim+do+site+da+clinica+olhar+sa%C3%BAde%2C+gostaria+de+obter+uma+informacao.&type=phone_number&app_absent=0  302
+/index.php             /         301
+/sobre.php             /sobre/    301
+/exames.php            /exames/   301
+/equipe.php            /equipe/   301
+/depoimentos.php       /depoimentos/ 301
+/blog.php              /blog/     301
+/blog.php?id=6         /blog/6/   301
+/blog.php?id=5         /blog/5/   301
+/blog.php?id=4         /blog/4/   301
+/blog.php?id=3         /blog/3/   301
+/blog.php?id=2         /blog/2/   301
+/blog.php?id=1         /blog/1/   301
+/politica-de-privacidade.php /privacidade/ 301
